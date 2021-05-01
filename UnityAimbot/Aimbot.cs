@@ -33,7 +33,7 @@ namespace Hack {
                     if (dist < 300 && dist < minDistance)
                     {
                         minDistance = dist;
-                        AimTarget = new Vector2(Screen.height - pos.x, Screen.height - pos.y);
+                        AimTarget = new Vector2(Screen.width - pos.x, Screen.height - pos.y);
                     }
                 }
 
