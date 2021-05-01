@@ -28,12 +28,12 @@ namespace Hack {
                 var pos = Camera.main.WorldToScreenPoint(target_transform.position);
                 if (pos.z > -8)
                 {
-                    float dist = System.Math.Abs(Vector2.Distance(new Vector2(pos.x, Screen.height - pos.y),
+                    float dist = System.Math.Abs(Vector2.Distance(new Vector2(Screen.height - pos.x, Screen.height - pos.y),
                         new Vector2((Screen.width / 2), (Screen.height / 2))));
                     if (dist < 300 && dist < minDistance)
                     {
                         minDistance = dist;
-                        AimTarget = new Vector2(pos.x, Screen.height - pos.y);
+                        AimTarget = new Vector2(Screen.height - pos.x, Screen.height - pos.y);
                     }
                 }
 
@@ -46,7 +46,6 @@ namespace Hack {
 
                 DistX /= 2;
                 DistY /= 2;
-
 
                 if (Input.GetButton("Fire2"))
                 {
