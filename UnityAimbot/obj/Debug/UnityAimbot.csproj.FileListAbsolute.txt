@@ -73,3 +73,5 @@ E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-A
 E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-Aimbot\UnityAimbot\bin\Debug\Mono.Security.dll
 E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-Aimbot\UnityAimbot\bin\Debug\System.ServiceModel.Internals.dll
 E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-Aimbot\UnityAimbot\bin\Debug\Assembly-CSharp.dll
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-Aimbot\UnityAimbot\bin\Debug\UnityEngine.ClothModule.dll
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-unity-aimbot\unity-aimbot\Unity-Aimbot\UnityAimbot\obj\Debug\UnityAimbot.csprojAssemblyReference.cache
